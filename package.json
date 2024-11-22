@@ -1,0 +1,22 @@
+{
+  "name": "akashts",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xinmin.su@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@llama-node/core": "^0.1.6",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.6",
+    "llama-node": "^0.1.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.0.4"
+  }
+}
